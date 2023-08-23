@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+.classs1 {
+    color: rgb(255, 255, 255);
+    width: 500px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    background-color: red;
+}
+
+.classs2 {
+    padding: 12px;
+}
+
+.classs2-1 {
+ background-color: #585858;
+ border-radius: 5px;
+ padding: 12px;
+ line-height: 20px;
+}
+
+.classs2-2 {
+    padding: 12px;
+ background-color: #585858;
+    margin-top: 16px;
+    border-radius: 5px;
+ line-height: 20px;
+}
+
+.classs3 {
+padding: 12px;
+ border-radius: 5px;
+ background-color: #585858;
+ line-height: 20px;
+ height: 537px
+}
+
